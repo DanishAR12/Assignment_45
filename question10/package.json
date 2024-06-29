@@ -1,0 +1,12 @@
+{
+  "name": "question10",
+  "version": "1.0.0",
+  "description": "adding comments",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "danish ar",
+  "license": "ISC"
+}
